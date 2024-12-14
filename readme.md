@@ -3,5 +3,8 @@
 ### Install
 pip install bitcoin
 
-### How to create a Bitcoin-address
+### Ceate a Bitcoin-address
 bitcoin-create.py
+
+### Feed for sending Bitcoins
+bitcoin-fees.py
