@@ -1,4 +1,4 @@
 # Bitcoin Python
 
-### How to.create a Bitcoin-address
+### How to create a Bitcoin-address
 bitcoin-create.py
